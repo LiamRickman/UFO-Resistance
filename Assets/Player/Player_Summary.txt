@@ -1,0 +1,12 @@
+Username: Player
+User ID: 99e0f5e6ebfeff049bb9ad6d66b3ab05
+Played Previous Build: False
+Completed Tutorial: No
+Session Count: 1
+Version Played: 1.2.2
+
+[06/05/2022 01:02:12] STARTED GAME #1
+[06/05/2022 01:02:12] LOADED: Consent Form
+[06/05/2022 01:02:15] LEAVING: Consent Form (Time Played: 2.84)
+[06/05/2022 01:02:15] LOADING: Main Menu
+[06/05/2022 01:02:20] QUITTING GAME #1 (Time Played: 5.06)
